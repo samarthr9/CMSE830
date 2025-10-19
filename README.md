@@ -24,4 +24,11 @@ The final output is an **interactive Streamlit dashboard** that visualizes how c
 | `app.py` | Streamlit dashboard for interactive visualization |
 | `README.md` | Project documentation |
 
+---
 
+## ⚙️ Setup Instructions  
+
+### 1. Clone the Repository  
+```bash
+git clone https://github.com/<your-username>/fifa-weather-analysis.git
+cd fifa-weather-analysis
