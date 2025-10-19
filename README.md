@@ -34,5 +34,5 @@ The final deliverable is an **interactive Streamlit dashboard** that allows user
 
 ### 1. Clone the Repository  
 ```bash
-git clone https://github.com/<your-username>/fifa-weather-analysis.git
+git clone https://github.com/<samarthr9>/fifa-weather-analysis.git
 cd fifa-weather-analysis
